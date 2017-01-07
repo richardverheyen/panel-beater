@@ -1,0 +1,15 @@
+{
+  "name": "gulp-experiment",
+  "description": "Attempt to rebuild the Grunt of Red Dust in Gulp",
+  "main": "index.js",
+  "authors": [
+    "Jan Werkhoven <jan.werkhoven@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "devDependencies": {
+    "jquery": "^3.1.1",
+    "velocity": "^1.4.1"
+  }
+}
